@@ -17,6 +17,7 @@ Steps:
 - install browser playwright (playwright install)
 - selain itu install juga beberapa libraries pada tools if needed
 - Buka Twitter dan cari topik, gunakan fitur advance search twitter(for better needs)
+  <img width="1489" height="847" alt="{6D7DEF79-0BF9-427C-BCD5-B4556D21946C}" src="https://github.com/user-attachments/assets/e90fb85a-2572-4f49-acf5-156d21b23c15" />
 - copy link search dan masukan ke script python
 
 Run program:
